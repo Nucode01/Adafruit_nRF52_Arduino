@@ -15,7 +15,7 @@ There are two methods that you can use to install this BSP. We highly recommend 
  1. [Download and install the Arduino IDE](https://www.arduino.cc/en/Main/Software) (At least v1.6.12)
  2. Start the Arduino IDE
  3. Go into Preferences
- 4. Add https://github.com/nucode01/Adafruit_nRF52_Arduino/blob/master/package_nuduino_index.json as an 'Additional Board Manager URL'
+ 4. Add https://raw.githubusercontent.com/Nucode01/Adafruit_nRF52_Arduino/refs/heads/master/package_nuduino_index.json as an 'Additional Board Manager URL'
  5. Restart the Arduino IDE
  6. Open the Boards Manager from the Tools -> Board menu and install 'NUBoards nRF52 by NUCODE'
 
