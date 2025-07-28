@@ -32,26 +32,7 @@ $ pip3 install adafruit-nrfutil --user
 
 ### Burning new Bootloader
 
-To burn the bootloader from within the Arduino IDE, you will need the following tools installed
-on your system and available in the system path:
-
-- Segger [JLink Software and Documentation Pack](https://www.segger.com/downloads/jlink)
-- Nordic [nRF5x Command Line Tools](https://www.nordicsemi.com/Software-and-Tools/Development-Tools/nRF-Command-Line-Tools)
-
-Check to make sure you can run `nrfjprog` from your terminal/command prompt
-
-**macOS Note** At present, you will need to create a symlink in `/usr/local/bin` to the
-`nrfjprog` tool wherever you have added it. You can run the following command, for example:
-
-```
-$ ln -s $HOME/prog/nordic/nrfjprog/nrfjprog /usr/local/bin/nrfjprog
-```
-
-Once the tools above have been installed and added to your system path, from the Arduino IDE:
-
-- Select `Tools > Board > NU40DK nRF52840`
-- Select `Tools > Programmer > J-Link`
-- Select `Tools > Burn Bootloader` with the board and J-Link connected
+#### Updating
 
 ## Credits
 
