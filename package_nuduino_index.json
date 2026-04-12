@@ -106,171 +106,6 @@
           ]
         },
         {
-          "name": "CMSIS",
-          "version": "5.4.0",
-          "systems": [
-            {
-              "host": "i686-mingw32",
-              "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
-              "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
-              "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
-              "size": "153772853"
-            },
-            {
-              "host": "x86_64-apple-darwin",
-              "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
-              "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
-              "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
-              "size": "153772853"
-            },
-            {
-              "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
-              "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
-              "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
-              "size": "153772853"
-            },
-            {
-              "host": "i686-pc-linux-gnu",
-              "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
-              "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
-              "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
-              "size": "153772853"
-            },
-            {
-              "host": "arm-linux-gnueabihf",
-              "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
-              "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
-              "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
-              "size": "153772853"
-            },
-            {
-              "host": "aarch64-linux-gnu",
-              "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
-              "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
-              "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
-              "size": "153772853"
-            },
-            {
-              "host": "all",
-              "url": "https://github.com/ARM-software/CMSIS_5/archive/5.4.0.tar.gz",
-              "archiveFileName": "CMSIS_5-5.4.0-adafruit.tar.gz",
-              "checksum": "SHA-256:93d09907ceb23a520ef65e6b5014d2e866efa6b7f5fe5d8828b29bbc54dec697",
-              "size": "153772853"
-            }
-          ]
-        },
-        {
-          "name": "CMSIS-Atmel",
-          "version": "1.2.1",
-          "systems": [
-            {
-              "host": "i686-mingw32",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.1/CMSIS-Atmel-1.2.1.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.1.tar.bz2",
-              "checksum": "SHA-256:2f2928bcf56569913be8deb9c1712e529b75b3efc27eed81d9dfb5cb5f53de28",
-              "size": "2510904"
-            },
-            {
-              "host": "x86_64-apple-darwin",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.1/CMSIS-Atmel-1.2.1.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.1.tar.bz2",
-              "checksum": "SHA-256:2f2928bcf56569913be8deb9c1712e529b75b3efc27eed81d9dfb5cb5f53de28",
-              "size": "2510904"
-            },
-            {
-              "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.1/CMSIS-Atmel-1.2.1.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.1.tar.bz2",
-              "checksum": "SHA-256:2f2928bcf56569913be8deb9c1712e529b75b3efc27eed81d9dfb5cb5f53de28",
-              "size": "2510904"
-            },
-            {
-              "host": "i686-pc-linux-gnu",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.1/CMSIS-Atmel-1.2.1.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.1.tar.bz2",
-              "checksum": "SHA-256:2f2928bcf56569913be8deb9c1712e529b75b3efc27eed81d9dfb5cb5f53de28",
-              "size": "2510904"
-            },
-            {
-              "host": "arm-linux-gnueabihf",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.1/CMSIS-Atmel-1.2.1.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.1.tar.bz2",
-              "checksum": "SHA-256:2f2928bcf56569913be8deb9c1712e529b75b3efc27eed81d9dfb5cb5f53de28",
-              "size": "2510904"
-            },
-            {
-              "host": "aarch64-linux-gnu",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.1/CMSIS-Atmel-1.2.1.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.1.tar.bz2",
-              "checksum": "SHA-256:2f2928bcf56569913be8deb9c1712e529b75b3efc27eed81d9dfb5cb5f53de28",
-              "size": "2510904"
-            },
-            {
-              "host": "all",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.1/CMSIS-Atmel-1.2.1.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.1.tar.bz2",
-              "checksum": "SHA-256:2f2928bcf56569913be8deb9c1712e529b75b3efc27eed81d9dfb5cb5f53de28",
-              "size": "2510904"
-            }
-          ]
-        },
-        {
-          "name": "CMSIS-Atmel",
-          "version": "1.2.2",
-          "systems": [
-            {
-              "host": "i686-mingw32",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
-              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
-              "size": "2511228"
-            },
-            {
-              "host": "x86_64-apple-darwin",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
-              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
-              "size": "2511228"
-            },
-            {
-              "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
-              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
-              "size": "2511228"
-            },
-            {
-              "host": "i686-pc-linux-gnu",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
-              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
-              "size": "2511228"
-            },
-            {
-              "host": "arm-linux-gnueabihf",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
-              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
-              "size": "2511228"
-            },
-            {
-              "host": "aarch64-linux-gnu",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
-              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
-              "size": "2511228"
-            },
-            {
-              "host": "all",
-              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
-              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
-              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
-              "size": "2511228"
-            }
-          ]
-        },
-        {
           "name": "arm-none-eabi-gcc",
           "version": "9-2019q4",
           "systems": [
@@ -319,40 +154,8 @@
           ]
         },
         {
-          "systems": [
-            {
-              "host": "i386-apple-darwin11",
-              "checksum": "MD5:603bcce8e59683ac27054b3197a53254",
-              "size": "96372129",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-mac.tar.bz2",
-              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-mac.tar.bz2"
-            },
-            {
-              "host": "i686-linux-gnu",
-              "checksum": "MD5:f88caac80b4444a17344f57ccb760b90",
-              "size": "92811866",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
-              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2"
-            },
-            {
-              "host": "x86_64-pc-linux-gnu",
-              "checksum": "MD5:f88caac80b4444a17344f57ccb760b90",
-              "size": "92811866",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
-              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2"
-            },
-            {
-              "host": "i686-mingw32",
-              "checksum": "MD5:32d950225b6c7c886f6225c1fc578934",
-              "size": "102981732",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2",
-              "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2"
-            }
-          ],
-          "name": "gcc-arm-none-eabi",
-          "version": "5_2-2015q4"
-        },
-        {
+          "name": "nrfjprog",
+          "version": "9.4.0",
           "systems": [
             {
               "host": "i386-apple-darwin11",
@@ -396,43 +199,7 @@
               "archiveFileName": "nrfjprog-10.15.0-arm.tar.bz2",
               "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino/releases/download/gcc-5_2-2015q4/nrfjprog-10.15.0-arm.tar.bz2"
             }
-          ],
-          "name": "nrfjprog",
-          "version": "9.4.0"
-        },
-        {
-          "systems": [
-            {
-              "host": "i686-linux-gnu",
-              "checksum": "MD5:355f25629740182d0ead5bc0b8aad42f",
-              "size": "28295",
-              "archiveFileName": "wiced_dfu-1.0.0-linux32.tar.gz",
-              "url": "https://github.com/adafruit/Adafruit_WICED_Arduino/releases/download/build-tools/wiced_dfu-1.0.0-linux32.tar.gz"
-            },
-            {
-              "host": "x86_64-pc-linux-gnu",
-              "checksum": "MD5:ae36e3e3a35ac507955a3ee4f18e4bb7",
-              "size": "28667",
-              "archiveFileName": "wiced_dfu-1.0.0-linux64.tar.gz",
-              "url": "https://github.com/adafruit/Adafruit_WICED_Arduino/releases/download/build-tools/wiced_dfu-1.0.0-linux64.tar.gz"
-            },
-            {
-              "host": "i386-apple-darwin11",
-              "checksum": "MD5:df388f13c1c76cb4b88a195e5b179b70",
-              "size": "3742",
-              "archiveFileName": "wiced_dfu-1.0.0-mac.tar.gz",
-              "url": "https://github.com/adafruit/Adafruit_WICED_Arduino/releases/download/build-tools/wiced_dfu-1.0.0-mac.tar.gz"
-            },
-            {
-              "host": "i686-mingw32",
-              "checksum": "MD5:7cbb7ab21c6a524285be5326e3a1009e",
-              "size": "525710",
-              "archiveFileName": "wiced_dfu-1.0.0-win32.tar.gz",
-              "url": "https://github.com/adafruit/Adafruit_WICED_Arduino/releases/download/build-tools/wiced_dfu-1.0.0-win32.tar.gz"
-            }
-          ],
-          "name": "wiced_dfu",
-          "version": "1.0.0"
+          ]
         }
       ],
       "name": "nucode",
@@ -443,11 +210,7 @@
       "maintainer": "NUCODE",
       "platforms": [
         {
-          "boards": [
-            {
-              "name": "NU40DK nRF52840"
-            }
-          ],
+          "boards": [{ "name": "NU40DK nRF52840" }],
           "architecture": "nrf52",
           "name": "NUBoards nRF52",
           "category": "Contributed",
@@ -456,30 +219,12 @@
           "archiveFileName": "NUduino_nRF52-1.0.0.tar.bz2",
           "checksum": "SHA-256:1b8946429860f9f694229f848f0cc11f02a476d7d3a680acd50839728731f769",
           "size": "16714139",
-          "help": {
-            "online": "https://nu40dk-guide-02.notion.site"
-          },
+          "help": { "online": "https://nu40dk-guide-02.notion.site" },
           "toolsDependencies": [
-            {
-              "packager": "nucode",
-              "name": "arm-none-eabi-gcc",
-              "version": "9-2019q4"
-            },
-            {
-              "packager": "nucode",
-              "name": "nrfjprog",
-              "version": "9.4.0"
-            },
-            {
-              "packager": "nucode",
-              "name": "CMSIS",
-              "version": "5.7.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.11.0-arduino2"
-            }
+            { "packager": "nucode", "name": "arm-none-eabi-gcc", "version": "9-2019q4" },
+            { "packager": "nucode", "name": "nrfjprog", "version": "9.4.0" },
+            { "packager": "nucode", "name": "CMSIS", "version": "5.7.0" },
+            { "packager": "arduino", "name": "openocd", "version": "0.11.0-arduino2" }
           ]
         },
         {
@@ -492,29 +237,7 @@
           "archiveFileName": "NUduino_nRF52-1.0.1.zip",
           "checksum": "SHA-256:5925ee4ad0056df348e243de997bfb54c4ee047f4d019f72b1dc260c686bfcb2",
           "size": "17294813",
-          "help": {
-            "online": "https://nu40dk-guide-02.notion.site"
-          },
-          "toolsDependencies": [
-            { "packager": "nucode", "name": "arm-none-eabi-gcc", "version": "9-2019q4" },
-            { "packager": "nucode", "name": "nrfjprog", "version": "9.4.0" },
-            { "packager": "nucode", "name": "CMSIS", "version": "5.7.0" },
-            { "packager": "arduino", "name": "openocd", "version": "0.11.0-arduino2" }
-          ]
-     },
-        {
-          "boards": [{ "name": "NU40DK nRF52840" }],
-          "architecture": "nrf52",
-          "name": "NUBoards nRF52",
-          "category": "Contributed",
-          "version": "1.0.1",
-          "url": "https://github.com/Nucode01/Adafruit_nRF52_Arduino/releases/download/v1.0.1/NUduino_nRF52-1.0.1.zip",
-          "archiveFileName": "NUduino_nRF52-1.0.1.zip",
-          "checksum": "SHA-256:5925ee4ad0056df348e243de997bfb54c4ee047f4d019f72b1dc260c686bfcb2",
-          "size": "17294813",
-          "help": {
-            "online": "https://nu40dk-guide-02.notion.site"
-          },
+          "help": { "online": "https://nu40dk-guide-02.notion.site" },
           "toolsDependencies": [
             { "packager": "nucode", "name": "arm-none-eabi-gcc", "version": "9-2019q4" },
             { "packager": "nucode", "name": "nrfjprog", "version": "9.4.0" },
