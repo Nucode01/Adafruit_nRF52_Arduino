@@ -18,6 +18,7 @@
 
 #ifndef _VARIANT_NU40DK52840_
 #define _VARIANT_NU40DK52840_
+#define USE_TINYUSB
 
 /** Master clock frequency */
 #define VARIANT_MCK       (64000000ul)
