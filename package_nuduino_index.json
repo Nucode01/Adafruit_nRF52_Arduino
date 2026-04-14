@@ -244,9 +244,7 @@
             { "packager": "nucode", "name": "CMSIS", "version": "5.7.0" },
             { "packager": "arduino", "name": "openocd", "version": "0.11.0-arduino2" }
           ]
-        }
-      ]
-   },
+        },
         {
           "boards": [{ "name": "NU40DK nRF52840" }],
           "architecture": "nrf52",
@@ -265,3 +263,7 @@
             { "packager": "arduino", "name": "openocd", "version": "0.11.0-arduino2" }
           ]
         }
+      ]
+    }
+  ]
+}
